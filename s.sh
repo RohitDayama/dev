@@ -1,2 +1,6 @@
 echo "helo"
-echo "mohan"
+<<<<<<< HEAD
+echo "rohit"
+=======
+echo "rohit "
+>>>>>>> main
